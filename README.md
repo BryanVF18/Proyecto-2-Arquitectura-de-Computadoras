@@ -35,8 +35,8 @@ REGLAS
 
 ARCHIVOS
 - ESQUIVAR.ASM : codigo fuente final del juego.
-- README.txt   : este archivo.
+- README.md
 - Informe tecnico: documento aparte (explicacion del juego, partes principales y pruebas).
 
 REPOSITORIO GIT
-- Enlace del repositorio: (agregar aqui el enlace del repositorio del grupo)
+- https://github.com/BryanVF18/Proyecto-2-Arquitectura-de-Computadoras.git
